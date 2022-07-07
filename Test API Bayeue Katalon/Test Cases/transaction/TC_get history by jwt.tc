@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_get history by jwt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>526ed0b1-54e3-4368-9307-2d8566dcf958</testCaseGuid>
+</TestCaseEntity>

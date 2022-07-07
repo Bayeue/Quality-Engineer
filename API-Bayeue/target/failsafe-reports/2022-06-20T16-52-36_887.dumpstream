@@ -1,0 +1,4 @@
+# Created at 2022-06-20T16:52:38.829
+Boot Manifest-JAR contains absolute paths in classpath 'D:\API-Bayeue\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

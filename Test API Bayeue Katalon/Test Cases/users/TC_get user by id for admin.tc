@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_get user by id for admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9aacda7-f1bb-44d6-9ce3-3b511a83e226</testCaseGuid>
+</TestCaseEntity>
