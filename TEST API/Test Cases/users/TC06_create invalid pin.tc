@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_create invalid pin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2a74065-f0c1-403b-bb32-048448a6a92d</testCaseGuid>
+</TestCaseEntity>

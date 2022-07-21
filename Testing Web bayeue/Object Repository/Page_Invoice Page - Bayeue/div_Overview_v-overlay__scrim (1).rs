@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overview_v-overlay__scrim (1)</name>
+   <tag></tag>
+   <elementGuidId>de9753c6-24c6-4701-9802-d7386151f2e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-overlay__scrim</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc6c6b9d-617c-4d47-ab6e-b67b285c47d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-overlay__scrim</value>
+      <webElementGuid>3808b8d1-b5f0-4474-91a7-ed6b6c329fb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-overlay v-overlay--active theme--dark&quot;]/div[@class=&quot;v-overlay__scrim&quot;]</value>
+      <webElementGuid>45747528-d98e-433f-ab37-54590c53889f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div</value>
+      <webElementGuid>56db68fe-632a-462f-92dd-cc8eca9cabeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>35548c1f-2179-4e6f-8130-fe4dfd2b135d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

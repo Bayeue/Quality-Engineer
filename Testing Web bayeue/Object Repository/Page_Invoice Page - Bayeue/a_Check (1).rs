@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Check (1)</name>
+   <tag></tag>
+   <elementGuidId>72aa4ff1-c572-4777-acfc-b872ffa7e265</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-card.v-card--flat.v-sheet.theme--light > div > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[2]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6d4917b3-1617-48e4-b490-191eb89e88a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://checkout-staging.xendit.co/web/62d6ac9a7c7cc16edc67e985</value>
+      <webElementGuid>3b0e22d4-50d6-4430-b3ca-d93c0d963a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Check </value>
+      <webElementGuid>c997c562-53c6-440c-b83c-f5c79d1cd9c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container pa-4&quot;]/div[@class=&quot;row pa-16&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;v-card v-card--flat v-sheet theme--light&quot;]/div[1]/a[1]</value>
+      <webElementGuid>9dfb7954-fe96-4d1f-ae85-afe95b5c8047</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>f357ca01-5dc4-4d4a-8a09-f03fc61a2dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Check')]</value>
+      <webElementGuid>d71942b2-e102-4820-8b5a-653551b2f1a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice'])[1]/following::a[1]</value>
+      <webElementGuid>053d6a76-1cbb-463a-b847-548397f852a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Details'])[1]/preceding::a[1]</value>
+      <webElementGuid>95552f6c-522e-43fb-b091-457a13aa50fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alfath'])[1]/preceding::a[1]</value>
+      <webElementGuid>9cc2aa99-c702-48e7-877a-ffa231e63235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Check']/parent::*</value>
+      <webElementGuid>256fece9-1e63-446c-8bf7-5e29ff801078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://checkout-staging.xendit.co/web/62d6ac9a7c7cc16edc67e985')]</value>
+      <webElementGuid>3236ac42-1333-4e4c-8b77-442881f2e1d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>3a3984a6-ef88-42b1-888b-ef516bc61b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://checkout-staging.xendit.co/web/62d6ac9a7c7cc16edc67e985' and (text() = ' Check ' or . = ' Check ')]</value>
+      <webElementGuid>3b75ca27-5f32-4baa-853a-b9df98abf970</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

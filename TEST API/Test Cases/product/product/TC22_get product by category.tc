@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC22_get product by category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78f3e845-adbb-41fc-8cbf-d236e9843059</testCaseGuid>
+</TestCaseEntity>

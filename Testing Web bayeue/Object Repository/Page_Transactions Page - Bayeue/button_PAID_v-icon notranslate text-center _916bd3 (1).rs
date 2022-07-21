@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_PAID_v-icon notranslate text-center _916bd3 (1)</name>
+   <tag></tag>
+   <elementGuidId>2a4efb80-7e13-492e-be4b-a3a5208c0e58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.v-icon.notranslate.text-center.v-icon--link.mdi.mdi-eye.theme--light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d9792084-2675-471d-a399-f352637bdf9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3f654152-8514-4ace-9112-d6770c19dd69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate text-center v-icon--link mdi mdi-eye theme--light</value>
+      <webElementGuid>62f86eaf-661d-403c-89b5-c9270e79aeca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container pa-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;v-data-table v-data-table--has-bottom theme--light&quot;]/div[@class=&quot;v-data-table__wrapper&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;text-start&quot;]/div[1]/button[@class=&quot;v-icon notranslate text-center v-icon--link mdi mdi-eye theme--light&quot;]</value>
+      <webElementGuid>9be72ee0-17a7-4af3-86af-e1944793cc0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>574b3937-4589-4070-8909-4150e576aca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[2]/div/div/div/table/tbody/tr/td[5]/div/button</value>
+      <webElementGuid>75fd328e-b88d-406d-b74f-f30a4930b8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/button</value>
+      <webElementGuid>d3a75262-b612-4721-a3f4-a0642e4545ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>9bb9ea71-88e7-4668-923a-a2115a524d3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

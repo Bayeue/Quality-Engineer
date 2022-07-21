@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC30_get success payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f97bc5d-9a16-40d4-9be3-62942ed12dbd</testCaseGuid>
+</TestCaseEntity>

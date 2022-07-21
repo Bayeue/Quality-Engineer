@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_test pulsa_v-card v-card--link v-sheet _a1828c</name>
+   <tag></tag>
+   <elementGuidId>207d7c0a-f7d5-4a77-a22c-d003837eaedb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-card.v-card--link.v-sheet.theme--light.dark.d-flex.align-center.flat.card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[3]/div[8]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7504193-b900-428d-b3e4-0f96f9deea74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>db2c7c0b-dd30-42c7-a1ea-fddda1cd748b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-card v-card--link v-sheet theme--light dark d-flex align-center flat card</value>
+      <webElementGuid>38f4f9e3-96c0-4a98-8ddf-a1bc01c88960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>145</value>
+      <webElementGuid>22b43099-4638-41dd-8238-b9907d91721f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>145</value>
+      <webElementGuid>485a372f-945a-40cf-a885-94cb1cbe1eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row row--dense&quot;]/div[@class=&quot;d-flex child-flex col-sm-3 col-md-2 col-lg-2 col-xl-2 col-6&quot;]/div[@class=&quot;v-card v-card--link v-sheet theme--light dark d-flex align-center flat card&quot;]</value>
+      <webElementGuid>a2a0bfb8-4715-420c-b906-d88ce93654f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[3]/div[8]/div</value>
+      <webElementGuid>b394ea55-d5d5-45e9-9fb1-b3d33d10fc46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test pulsa'])[1]/following::div[2]</value>
+      <webElementGuid>e73500d3-6c25-4cd0-95df-00fd977358fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/following::div[11]</value>
+      <webElementGuid>95831232-77db-426f-bf52-2d3eb279f902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::div[10]</value>
+      <webElementGuid>2ab914d0-54f7-4b86-989c-685f0575c6cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div</value>
+      <webElementGuid>cf49501d-2f4e-4414-9eee-a625a48b8926</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

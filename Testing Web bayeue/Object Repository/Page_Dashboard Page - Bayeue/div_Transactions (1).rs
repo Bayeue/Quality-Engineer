@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transactions (1)</name>
+   <tag></tag>
+   <elementGuidId>91de57b2-5d72-4580-a0e9-5cc70a5e4d50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/nav/div/div/div/div[2]/a[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>99b9659b-0dbe-4723-ad59-55ffdb7a836b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__content</value>
+      <webElementGuid>2d744384-f808-4d00-b27f-a9b75286c847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Transactions
+                </value>
+      <webElementGuid>55ac52d7-8591-4135-ad71-d21845263c0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--is-mobile v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--light&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;layout column justify-center justify-space-between fill-height&quot;]/div[1]/div[@class=&quot;v-list v-sheet theme--light v-list--nav&quot;]/a[@class=&quot;v-list-item v-list-item--link theme--light&quot;]/div[@class=&quot;v-list-item__content&quot;]</value>
+      <webElementGuid>fb29debc-72d1-463d-8464-6b44611a4f57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/nav/div/div/div/div[2]/a[3]/div</value>
+      <webElementGuid>ad25d050-9ed1-4d82-971c-330129059896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/following::div[1]</value>
+      <webElementGuid>51b618d2-cde6-47dc-9eac-f7ccaefdc435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::div[4]</value>
+      <webElementGuid>8fee5944-9f2c-4759-a59a-439371ca7be5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts'])[1]/preceding::div[3]</value>
+      <webElementGuid>07f44738-d4bf-4d60-a107-ec1ac44333c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div</value>
+      <webElementGuid>b505c838-dc32-4499-abbe-78187ac8cffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                  Transactions
+                ' or . = '
+                  Transactions
+                ')]</value>
+      <webElementGuid>4978c68f-b6c2-4b56-9941-90145203a226</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
